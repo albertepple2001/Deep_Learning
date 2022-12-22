@@ -1,1 +1,7 @@
-
+gensim.models
+gensim.test.utils
+pandas
+nltk
+numpy
+matplotlib.pyplot
+tensorflow ==> 2.11.0
