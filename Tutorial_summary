@@ -1,0 +1,15 @@
+Deep Dive:
+
+In the Deep Dive we were introduced into Tensorflow, Keras and Neural Networks overall. We went from loading the Data to evaluating the performance of Marvin (the network we trained)
+
+Lecture 1:
+
+The first part of Binder 1, was an deeper lock into the Math behind Back Propagation. In the second part we tried out different optimizations and regularization
+
+Lecture 2:
+
+In this Binder we train on the cats and dogs dataset. We used the VGG16 model and freeze the layers and added a new layer which we could train.
+
+Lecture 3:
+
+In the last Binder we do segmentation with U-Net. We implement a dice loss. Prepare the data and write a generator for training.
